@@ -5,6 +5,7 @@ A simple WIN32 API based console application that ... turns everything to light 
 ### Building and running
 
 Download the solution, and build using Visual C++.
+Alternatively, download the released binaries and run from the command line!
 Command line arguments are as follows:
 
 | Argument | Information |
